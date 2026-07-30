@@ -12,7 +12,7 @@ This lab introduced the fundamentals of how to install and operate GNS3 as a net
 
       Here is the screenshot of installation: ![GNS3 Installation](./images/week1-GNS3Running.png)
        Here is the screenshot of installation: [GNS3 Installation](./https://github.com/12322273-Magic/12322273-COIT20261-2026T2/blob/main/images/week1-LinuxHost.png)
-                                              images/week1-GNS3Running.png
+                                          
 
 ### 2. Workspace Configuration
 
