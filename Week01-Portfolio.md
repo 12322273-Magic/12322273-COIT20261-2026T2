@@ -10,7 +10,7 @@ This lab introduced the fundamentals of how to install and operate GNS3 as a net
 
       Download the GNS3 VM on the local computer and install it. After installation, I launched GNS3 using VirtualBox and accessed the interface of the virtual machine through the web browser using http://192.168.56.102/
 
-      Here is the screenshot of installation: ![GNS3_Installation](images/week1-GNS3Running.png)
+      Here is the screenshot of installation: ![GNS3_Installation](./week1-GNS3Running.png)
 
 ### 2. Workspace Configuration
 
