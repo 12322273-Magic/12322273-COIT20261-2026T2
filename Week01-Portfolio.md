@@ -19,7 +19,7 @@ This lab introduced the fundamentals of how to install and operate GNS3 as a net
       I opened the workspace, and create the new project using my student ID. 
       After that, I add the single Linux Host Node, renamed it and labelled it with static IP Address.
 
-      Below are the screenshots as a reference: ![GNS3 Installation](./images/week1-LinuxHost.png)
+      Below are the screenshots as a reference: ![GNS3_Installation](./images/week1-LinuxHost.png)
 
       ![GNS3 Installation](./images/week1-IPAddr2.png)
    
