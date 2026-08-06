@@ -12,9 +12,9 @@ This lab introduced the fundamentals of how to install and operate GNS3 as a net
 
       Here is the screenshot of installation: 
       
-     ![GNS Installation](./images/week1-GNS3Running.png)
+![GNS Installation](./images/week1-GNS3Running.png)
       
-      ![GNS3 Installation](https://raw.githubusercontent.com/12322273-Magic/12322273-COIT20261-2026T2/main/images/week1-LinuxHost.png)
+![GNS3 Installation](./images/week1-LinuxHost.png)
                                           
 
 ### 2. Workspace Configuration
@@ -24,7 +24,7 @@ This lab introduced the fundamentals of how to install and operate GNS3 as a net
 
       Below are the screenshots as a reference: ![GNS3_Installation](./images/week1-LinuxHost.png)
 
-      ![GNS3 Installation](./images/week1-IPAddr2.png)
+![GNS3 Installation](./images/week1-IPAddr2.png)
    
 ### 3.  IP Address Configuration.
 
@@ -33,9 +33,9 @@ This lab introduced the fundamentals of how to install and operate GNS3 as a net
     IP Address: 10.10.0.3
     Subnet Mask (/24): 255.255.255.0
 
-    ![GNS3 Installation](./images/week1-IP.png)
+![GNS3 Installation](./images/week1-IP.png)
 
-    ![GNS3 Installation](./images/week1-IP_addr.png)
+![GNS3 Installation](./images/week1-IP_addr.png)
 
     
    
@@ -45,4 +45,4 @@ This lab introduced the fundamentals of how to install and operate GNS3 as a net
 
     The output confirmed that the host interface had been assigned with the correct IP address and subnet mask.
 
-    ![Show IP Address](./images/week1_showIPAddr.png)
+![Show IP Address](./images/week1_showIPAddr.png)
