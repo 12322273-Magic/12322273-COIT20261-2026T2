@@ -25,7 +25,7 @@ GUI GNS3 File: ![GUI_GNS3_File](./images/HTTPClient-GUI-12322273.gns3)
 
 Before testing HTTP, I started all nodes and verified network connectivity using ping.
 
-![Ping](./images/week4-task1-addRouteTo Router1.png)
+![Ping](./images/week4-task1-PING.png)
 
 #### Router Configuration
 
