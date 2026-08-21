@@ -24,7 +24,7 @@ The aim of this task was to configure static IPv4 addresses on four Linux hosts 
 
 All four hosts were part of the same LAN.
 
-![Network](./images/week1-LinuxHost.png)
+![Network](./images/WEEK2-TASK1-NETWORK.png)
 
 The following screenshot shows the completed GNS3 topology containing all four Linux hosts and the Ethernet switch.
 
