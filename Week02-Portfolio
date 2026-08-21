@@ -16,14 +16,12 @@ After configuring the hosts, I verified their IP addresses and tested communicat
 The aim of this task was to configure static IPv4 addresses on four Linux hosts using three different configuration methods and compare how each method operates.
 
 ### Network Topology:
-The topology contained:
+
 
 1.  4 × Linux Host nodes
 2.  1 × Ethernet switch
 3.  Ethernet connections between each host and the switch
 
-![GNS Installation](./images/images/WEEK2-TASK1-NETWORK.png)
-
-
 All four hosts were part of the same LAN.
 
+                                                                                                                                                                                                                                   
