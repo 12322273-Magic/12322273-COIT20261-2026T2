@@ -167,7 +167,6 @@ I also tested multiple options together:
 
 ![Combining_Options](./images/week2-task2-CombineAllOptions.png)
 
-This command sends three requests with a data size of 80 bytes.
 
 ## Self Reflection
 
